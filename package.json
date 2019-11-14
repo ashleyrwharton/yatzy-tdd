@@ -1,0 +1,15 @@
+{
+  "name": "yatze-tdd",
+  "version": "1.0.0",
+  "description": "JavaScript project for developing Yatzy with a TDD approach",
+  "main": "test.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Ashley Wharton (awharton@andigital.com)",
+  "license": "ISC",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.1.2"
+  }
+}
